@@ -1,6 +1,6 @@
 {
   "posts": {
-    {
+    
     "id": 1,
     "name": "All Birds",
     "imageUrl": "https://images.vexels.com/media/users/3/189921/isolated/preview/b1a526c86ebc75b00e99b0ee5dcf133f-standing-pigeons-silhouette-by-vexels.png"
@@ -42,7 +42,7 @@
     }
   },
   "comments": {
-    {"id":1, "body":"comment 1","postId":1},
+    "id":1, "body":"comment 1","postId":1},
     {"id":2, "body":"comment 2","postId":1}
   },
   "profile": {
