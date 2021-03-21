@@ -1,6 +1,6 @@
 {
-  "posts": {
-    
+  "posts": [
+    {
     "id": 1,
     "name": "All Birds",
     "imageUrl": "https://images.vexels.com/media/users/3/189921/isolated/preview/b1a526c86ebc75b00e99b0ee5dcf133f-standing-pigeons-silhouette-by-vexels.png"
@@ -40,11 +40,15 @@
       "name": "Pet Birds",
       "imageUrl": "https://cdn11.bigcommerce.com/s-xj69ljw63/images/stencil/266x266/v/bird-woodpecker-control-266x266__19563.original.png"
     }
-  },
-  "comments": {
-    "id":1, "body":"comment 1","postId":1},
-    {"id":2, "body":"comment 2","postId":1}
-  },
+  ],
+  "comments": [
+    {
+    "id":1, "body":"comment 1","postId":1
+    },
+    {
+      "id":2, "body":"comment 2","postId":1
+    }
+  ],
   "profile": {
     "name""Profile 1"
   }
