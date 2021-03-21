@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "All Birds",
+    "imageUrl": "https://images.vexels.com/media/users/3/189921/isolated/preview/b1a526c86ebc75b00e99b0ee5dcf133f-standing-pigeons-silhouette-by-vexels.png"
+  },
+  {
+    "id": 2,
+    "name": "Waders",
+    "imageUrl": "https://images.vexels.com/media/users/3/189725/isolated/preview/64dc0d9525f8fae057b4c345a7231270-flying-pigeon-silhouette-by-vexels.png"
+  },
+  {
+    "id": 3,
+    "name": "Perching Birds",
+    "imageUrl": "https://images.vexels.com/media/users/3/189725/isolated/preview/64dc0d9525f8fae057b4c345a7231270-flying-pigeon-silhouette-by-vexels.png"
+  },
+  {
+    "id": 4,
+    "name": "Tree-clinging Birds",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-xj69ljw63/images/stencil/266x266/v/bird-woodpecker-control-266x266__19563.original.png"
+  },
+  {
+    "id": 5,
+    "name": "Seabirds",
+    "imageUrl": "https://www.pngkey.com/png/full/286-2863867_white-bird-black-background.png"
+  },
+  {
+    "id": 6,
+    "name": "Birds Of Prey",
+    "imageUrl": "https://webcomicms.net/sites/default/files/clipart/168765/white-eagle-cliparts-168765-3390204.png"
+  },
+  {
+    "id": 7,
+    "name": "Flighless Birds",
+    "imageUrl": "https://images.vexels.com/media/users/3/189725/isolated/preview/64dc0d9525f8fae057b4c345a7231270-flying-pigeon-silhouette-by-vexels.png"
+  },
+  {
+    "id": 8,
+    "name": "Pet Birds",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-xj69ljw63/images/stencil/266x266/v/bird-woodpecker-control-266x266__19563.original.png"
+  }
+]
